@@ -13,7 +13,6 @@ import javax.swing.JOptionPane;
 import main.pojo.Supplier;
 import main.dbconfig.Database;
 import main.dbconfig.MysqlQuery;
-import main.pojo.Barang;
 import main.pojo.ResponseSQL;
 
 /**

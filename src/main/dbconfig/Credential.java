@@ -10,8 +10,8 @@ package main.dbconfig;
  * @author tera
  */
 public class Credential {
-    private String username = "tera";
-    private String password = "min1011";
+    private final String username = "root";
+    private final String password = "";
     
     public String getUsername() {
         return username;
