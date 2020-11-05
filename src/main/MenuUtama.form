@@ -171,12 +171,12 @@
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel3">
       <Properties>
-        <Property name="text" type="java.lang.String" value="9:30 AM"/>
+        <Property name="text" type="java.lang.String" value="1:30 AM"/>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel4">
       <Properties>
-        <Property name="text" type="java.lang.String" value="Kamis, 5 Nov 2020"/>
+        <Property name="text" type="java.lang.String" value="Jumat, 6 Nov 2020"/>
       </Properties>
     </Component>
   </SubComponents>

@@ -57,9 +57,9 @@ public class MenuUtama extends javax.swing.JFrame {
         jLabel2.setForeground(new java.awt.Color(20, 26, 144));
         jLabel2.setText("\"JAYA MANDIRI\"");
 
-        jLabel3.setText("9:30 AM");
+        jLabel3.setText("1:30 AM");
 
-        jLabel4.setText("Kamis, 5 Nov 2020");
+        jLabel4.setText("Jumat, 6 Nov 2020");
 
         jMenu5.setText("File");
 
@@ -175,7 +175,7 @@ public class MenuUtama extends javax.swing.JFrame {
 
     private void jMenuItem2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem2ActionPerformed
         this.setVisible(true);
-        new FormPenjualan().setVisible(true);
+        new FormSupplier().setVisible(true);
     }//GEN-LAST:event_jMenuItem2ActionPerformed
 
     /**
