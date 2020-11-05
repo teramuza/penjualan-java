@@ -6,6 +6,7 @@
 package main;
 
 import java.util.List;
+import main.dbconfig.MysqlQuery;
 import main.model.ModelBarang;
 import main.pojo.Barang;
 
@@ -15,14 +16,6 @@ import main.pojo.Barang;
  */
 public class Cobaaja {
     public static void main(String args[]){
-        ModelBarang barangProcess = new ModelBarang();
-        try {
-            List<Barang> barangList = barangProcess.getAll();
-            for(int i = 0; i < barangList.size(); i++) {
-                System.out.println(barangList.get(i));
-            }
-        } catch (Exception e) {
-            System.out.print(e);
-        }
+        
     }
 }

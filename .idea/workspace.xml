@@ -3,8 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="2f007917-9a58-4d44-9129-055c904c11fc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Cobaaja.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Cobaaja.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/FormDataBarang.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/FormDataBarang.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/FormPenjualan.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/FormPenjualan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/MainMenu.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/MainMenu.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/dbconfig/Credential.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/dbconfig/Credential.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/model/ModelSupplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/model/ModelSupplier.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +63,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

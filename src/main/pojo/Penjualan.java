@@ -33,7 +33,7 @@ public class Penjualan extends BasePojo {
     
     @Override
     public String toSQLValue() {
-        return kd_brg+','+tgl+','+ttl_byr+','+byr+','+jml_beli+','+ptng;
+        return "'" + kd_brg+"','"+tgl+"','"+ttl_byr+"','"+byr+"','"+jml_beli+"','"+ptng+"'";
     }
     
     @Override

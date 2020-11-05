@@ -27,7 +27,7 @@ public abstract class MysqlQuery {
     }
     
     public String queryAdd(String dataId, BasePojo obj) {
-        return "INSERT INTO " + tableName + " VALUES (" + dataId + ',' + obj.toSQLValue() + ')';
+        return "INSERT INTO " + tableName + " VALUES ('" + dataId + "'," + obj.toSQLValue() + ')';
     }
     
     public String queryAdd(BasePojo obj) {

@@ -29,7 +29,7 @@ public class Supplier extends BasePojo {
 
     @Override
     public String toSQLValue() {
-        return kdsplr+','+nm_splr+','+nm_brg+','+bnyk_brg;
+        return "'" +nm_splr+"','"+nm_brg+"','"+bnyk_brg + "'";
     }
 
     @Override

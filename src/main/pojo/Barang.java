@@ -33,7 +33,7 @@ public class Barang extends BasePojo {
     
     @Override
     public String toSQLValue() {
-        return nm_brg+','+jns+','+jml+','+pbl+','+pjl;
+        return "'" + nm_brg+"','"+jns+"','"+jml+"','"+pbl+"','"+pjl+"'";
     }
     
     @Override
